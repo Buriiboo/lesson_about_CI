@@ -16,6 +16,7 @@ print(df)
 
 plt.plot(df["x"], df["y"])
 
+plt.xlabel("x")
 
 
 
